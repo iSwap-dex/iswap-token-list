@@ -1,0 +1,11 @@
+{
+  "ethereum": 1,
+  "polygon": 137,
+  "arbitrum": 42161,
+  "arbitrum_nova": 42170,
+  "optimism": 10,
+  "base": 8453,
+  "bitlayer": 200901,
+  "cyber": 7560,
+  "linea": 59144
+}
