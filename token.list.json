@@ -1,24 +1,24 @@
 {
-  "name": "token list",
+  "name": "iswap token list",
   "logoURI": "",
   "keywords": null,
-  "timestamp": "",
+  "timestamp": "2024-05-14T15:55:15+08:00",
   "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
-      "name": "0xBitcoin",
-      "symbol": "0xBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/0xBTC/logo.svg"
-    },
     {
       "chainId": 10,
       "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
       "name": "0xBitcoin",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/0xBTC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/0xBTC/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+      "name": "0xBitcoin",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/0xBTC/logo.png"
     },
     {
       "chainId": 8453,
@@ -45,6 +45,14 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/1INCH/logo.svg"
     },
     {
+      "chainId": 10,
+      "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/AAVE/logo.svg"
+    },
+    {
       "chainId": 0,
       "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
       "name": "Aave Token",
@@ -62,19 +70,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
-      "name": "Aave Token",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/AAVE/logo.svg"
-    },
-    {
-      "chainId": 10,
       "address": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b",
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ACX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ACX/logo.png"
     },
     {
       "chainId": 1,
@@ -82,7 +82,7 @@
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ACX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ACX/logo.png"
     },
     {
       "chainId": 10,
@@ -90,7 +90,7 @@
       "name": "Aelin Protocol",
       "symbol": "AELIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/AELIN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/AELIN/logo.png"
     },
     {
       "chainId": 1,
@@ -98,7 +98,7 @@
       "name": "Artificial Liquid Intelligence Token",
       "symbol": "ALI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ALI/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ALI/logo.png"
     },
     {
       "chainId": 8453,
@@ -106,7 +106,7 @@
       "name": "Artificial Liquid Intelligence Token",
       "symbol": "ALI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ALI/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ALI/logo.png"
     },
     {
       "chainId": 1,
@@ -149,14 +149,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/APT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e",
-      "name": "Apu Apustaja",
-      "symbol": "APU",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/APU/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
       "name": "Apu Apustaja",
@@ -166,15 +158,23 @@
     },
     {
       "chainId": 8453,
-      "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
+      "address": "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e",
+      "name": "Apu Apustaja",
+      "symbol": "APU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/APU/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
       "name": "ARIANEE",
       "symbol": "ARIA20",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ARIA20/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+      "chainId": 8453,
+      "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
       "name": "ARIANEE",
       "symbol": "ARIA20",
       "decimals": 18,
@@ -229,28 +229,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ATH/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-      "name": "Balancer",
-      "symbol": "BAL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
-      "name": "Balancer",
-      "symbol": "BAL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.png"
     },
     {
       "chainId": 0,
@@ -258,15 +242,23 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.png"
     },
     {
       "chainId": 10,
-      "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
-      "name": "Bankless Token",
-      "symbol": "BANK",
+      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+      "name": "Balancer",
+      "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BANK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BAL/logo.png"
     },
     {
       "chainId": 1,
@@ -274,7 +266,15 @@
       "name": "Bankless Token",
       "symbol": "BANK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BANK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BANK/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
+      "name": "Bankless Token",
+      "symbol": "BANK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BANK/logo.png"
     },
     {
       "chainId": 1,
@@ -309,22 +309,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BITCOIN/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376",
-      "name": "Brickken",
-      "symbol": "BKN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BKN/logo.svg"
-    },
-    {
-      "chainId": 0,
-      "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
-      "name": "Brickken",
-      "symbol": "BKN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BKN/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
       "name": "Brickken",
@@ -335,6 +319,22 @@
     {
       "chainId": 0,
       "address": "0x97a13487f889dc770Ac925Be2d3b6c833FA7746a",
+      "name": "Brickken",
+      "symbol": "BKN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BKN/logo.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376",
+      "name": "Brickken",
+      "symbol": "BKN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BKN/logo.svg"
+    },
+    {
+      "chainId": 0,
+      "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
       "name": "Brickken",
       "symbol": "BKN",
       "decimals": 18,
@@ -363,14 +363,6 @@
       "symbol": "BOB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOB/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
-      "name": "Boba Token",
-      "symbol": "BOBA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOBA/logo.svg"
     },
     {
       "chainId": 10,
@@ -413,6 +405,22 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOBA/logo.svg"
     },
     {
+      "chainId": 1,
+      "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOBA/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+      "name": "BarnBridge Governance Token",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOND/logo.svg"
+    },
+    {
       "chainId": 10,
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
       "name": "BarnBridge Governance Token",
@@ -422,11 +430,19 @@
     },
     {
       "chainId": 1,
-      "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
-      "name": "BarnBridge Governance Token",
-      "symbol": "BOND",
+      "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+      "name": "BTRST",
+      "symbol": "BTRST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BOND/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BTRST/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xEd50aCE88bd42B45cB0F49be15395021E141254e",
+      "name": "BTRST",
+      "symbol": "BTRST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BTRST/logo.svg"
     },
     {
       "chainId": 8453,
@@ -454,27 +470,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
-      "name": "BTRST",
-      "symbol": "BTRST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BTRST/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0xEd50aCE88bd42B45cB0F49be15395021E141254e",
-      "name": "BTRST",
-      "symbol": "BTRST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BTRST/logo.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitANT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitANT/logo.png"
     },
     {
       "chainId": 10,
@@ -482,7 +482,7 @@
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitANT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitANT/logo.png"
     },
     {
       "chainId": 1,
@@ -490,7 +490,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitBTC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitBTC/logo.png"
     },
     {
       "chainId": 10,
@@ -498,15 +498,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitBTC/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/BitBTC/logo.png"
     },
     {
       "chainId": 8453,
@@ -514,7 +506,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 10,
@@ -522,7 +514,15 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 1,
@@ -557,14 +557,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CHI/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x629c2fd5d5f432357465b59d7832389a89956f0b",
-      "name": "CryptoOracle Collective",
-      "symbol": "COC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COC/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
       "name": "CryptoOracle Collective",
@@ -581,12 +573,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COC/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
-      "name": "Collab.Land",
-      "symbol": "COLLAB",
+      "chainId": 10,
+      "address": "0x629c2fd5d5f432357465b59d7832389a89956f0b",
+      "name": "CryptoOracle Collective",
+      "symbol": "COC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COLLAB/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COC/logo.svg"
     },
     {
       "chainId": 10,
@@ -594,7 +586,15 @@
       "name": "Collab.Land",
       "symbol": "COLLAB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COLLAB/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COLLAB/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COLLAB/logo.png"
     },
     {
       "chainId": 1,
@@ -613,20 +613,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/COMP/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-      "name": "Curve DAO Token",
-      "symbol": "CRV",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.png"
     },
     {
       "chainId": 8453,
@@ -634,7 +626,15 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CRV/logo.png"
     },
     {
       "chainId": 1,
@@ -685,14 +685,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CTSI/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x0b6A24A288eF6e1bFFd94EBe0EE026D80Cb4cE82",
-      "name": "Chad USD",
-      "symbol": "CUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CUSD/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0x4493faE71502871245B7049580b3195bC930e661",
       "name": "Chad USD",
@@ -702,11 +694,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
-      "name": "Prime",
-      "symbol": "D2D",
+      "address": "0x0b6A24A288eF6e1bFFd94EBe0EE026D80Cb4cE82",
+      "name": "Chad USD",
+      "symbol": "CUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/D2D/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/CUSD/logo.svg"
     },
     {
       "chainId": 8453,
@@ -723,6 +715,22 @@
       "symbol": "D2D",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/D2D/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
+      "name": "Prime",
+      "symbol": "D2D",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/D2D/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DAI/logo.svg"
     },
     {
       "chainId": 10,
@@ -751,14 +759,6 @@
     {
       "chainId": 0,
       "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DAI/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -837,16 +837,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DHT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0xd7ea8433b434223b3da2931620391df157d1c22d",
+      "chainId": 1,
+      "address": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
       "name": "Dimo",
       "symbol": "DIMO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DIMO/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
+      "chainId": 8453,
+      "address": "0xd7ea8433b434223b3da2931620391df157d1c22d",
       "name": "Dimo",
       "symbol": "DIMO",
       "decimals": 18,
@@ -885,14 +885,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOGEGF/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
-      "name": "Dola USD Stablecoin",
-      "symbol": "DOLA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOLA/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
       "name": "Dola USD Stablecoin",
@@ -909,12 +901,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOLA/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
-      "name": "DOSE",
-      "symbol": "DOSE",
+      "chainId": 10,
+      "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+      "name": "Dola USD Stablecoin",
+      "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOSE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOLA/logo.svg"
     },
     {
       "chainId": 0,
@@ -941,6 +933,22 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOSE/logo.svg"
     },
     {
+      "chainId": 1,
+      "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DOSE/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1eb70B51C87e927d1a823Dbd478C27AB0F777F1",
+      "name": "DRODEC",
+      "symbol": "DRODEC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DRODEC/logo.svg"
+    },
+    {
       "chainId": 10,
       "address": "0x05c87b79844227a4d95171E9969da3DD7d65914e",
       "name": "DRODEC",
@@ -958,19 +966,11 @@
     },
     {
       "chainId": 1,
-      "address": "0xe1eb70B51C87e927d1a823Dbd478C27AB0F777F1",
-      "name": "DRODEC",
-      "symbol": "DRODEC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DRODEC/logo.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
       "name": "Unit protocol",
       "symbol": "DUCK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DUCK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DUCK/logo.png"
     },
     {
       "chainId": 10,
@@ -978,7 +978,15 @@
       "name": "Unit protocol",
       "symbol": "DUCK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DUCK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/DUCK/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dBF9A4c99580fC7Fd4024ee08f3994420035727",
+      "name": "Eco",
+      "symbol": "ECO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ECO/logo.svg"
     },
     {
       "chainId": 10,
@@ -990,19 +998,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x8dBF9A4c99580fC7Fd4024ee08f3994420035727",
-      "name": "Eco",
-      "symbol": "ECO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ECO/logo.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ENS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ENS/logo.png"
     },
     {
       "chainId": 10,
@@ -1010,7 +1010,15 @@
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ENS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ENS/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
+      "name": "Epoch",
+      "symbol": "EPOCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EPOCH/logo.svg"
     },
     {
       "chainId": 10,
@@ -1023,14 +1031,6 @@
     {
       "chainId": 8453,
       "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
-      "name": "Epoch",
-      "symbol": "EPOCH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EPOCH/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
       "name": "Epoch",
       "symbol": "EPOCH",
       "decimals": 18,
@@ -1058,7 +1058,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EQZ/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EQZ/logo.png"
     },
     {
       "chainId": 10,
@@ -1066,7 +1066,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EQZ/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EQZ/logo.png"
     },
     {
       "chainId": 1,
@@ -1074,7 +1074,7 @@
       "name": "Erica Social Token",
       "symbol": "EST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EST/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EST/logo.png"
     },
     {
       "chainId": 10,
@@ -1082,7 +1082,15 @@
       "name": "Erica Social Token",
       "symbol": "EST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EST/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EST/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ETH/logo.svg"
     },
     {
       "chainId": 10,
@@ -1103,14 +1111,6 @@
     {
       "chainId": 0,
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ETH/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0000000000000000000000000000000000000000",
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
@@ -1149,14 +1149,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ETHIX/logo.svg"
     },
     {
-      "chainId": 0,
-      "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
-      "name": "Everyworld",
-      "symbol": "EVERY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EVERY/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
       "name": "Everyworld",
@@ -1175,6 +1167,14 @@
     {
       "chainId": 0,
       "address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
+      "name": "Everyworld",
+      "symbol": "EVERY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/EVERY/logo.svg"
+    },
+    {
+      "chainId": 0,
+      "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
       "name": "Everyworld",
       "symbol": "EVERY",
       "decimals": 18,
@@ -1258,7 +1258,7 @@
       "name": "Franklin",
       "symbol": "FLy",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/FLy/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/FLy/logo.png"
     },
     {
       "chainId": 10,
@@ -1266,7 +1266,7 @@
       "name": "Franklin",
       "symbol": "FLy",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/FLy/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/FLy/logo.png"
     },
     {
       "chainId": 1,
@@ -1509,14 +1509,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GTC/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
-      "name": "GMO JPY",
-      "symbol": "GYEN",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYEN/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
       "name": "GMO JPY",
@@ -1525,12 +1517,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYEN/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
-      "name": "Geyser",
-      "symbol": "GYSR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYSR/logo.svg"
+      "chainId": 1,
+      "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+      "name": "GMO JPY",
+      "symbol": "GYEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYEN/logo.svg"
     },
     {
       "chainId": 1,
@@ -1538,7 +1530,15 @@
       "name": "Geyser",
       "symbol": "GYSR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYSR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYSR/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+      "name": "Geyser",
+      "symbol": "GYSR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/GYSR/logo.png"
     },
     {
       "chainId": 1,
@@ -1555,6 +1555,14 @@
       "symbol": "HAIR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAIR/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
+      "name": "HanChain",
+      "symbol": "HAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAN/logo.svg"
     },
     {
       "chainId": 10,
@@ -1574,11 +1582,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
-      "name": "HanChain",
-      "symbol": "HAN",
+      "address": "0x5052fa4a2a147eaAa4c0242e9Cc54a10A4f42070",
+      "name": "HANePlatform",
+      "symbol": "HANeP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HANeP/logo.svg"
     },
     {
       "chainId": 10,
@@ -1598,19 +1606,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x5052fa4a2a147eaAa4c0242e9Cc54a10A4f42070",
-      "name": "HANePlatform",
-      "symbol": "HANeP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HANeP/logo.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
       "name": "DAOhaus Token",
       "symbol": "HAUS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAUS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAUS/logo.png"
     },
     {
       "chainId": 10,
@@ -1618,7 +1618,7 @@
       "name": "DAOhaus Token",
       "symbol": "HAUS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAUS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HAUS/logo.png"
     },
     {
       "chainId": 1,
@@ -1677,20 +1677,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/HUNT/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6",
-      "name": "Impermax",
-      "symbol": "IBEX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/IBEX/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82",
       "name": "Impermax",
       "symbol": "IBEX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/IBEX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/IBEX/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6",
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/IBEX/logo.png"
     },
     {
       "chainId": 1,
@@ -1714,7 +1714,7 @@
       "name": "Infected",
       "symbol": "INFC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/INFC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/INFC/logo.png"
     },
     {
       "chainId": 1,
@@ -1765,16 +1765,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ISK/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x7cb683151a83c2b10a30cbb003cda9996228a2ba",
+      "chainId": 8453,
+      "address": "0xB00d803CB2367a7DA82351DCb9D213230da7B92A",
       "name": "IYKYK",
       "symbol": "IYKYK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/IYKYK/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0xB00d803CB2367a7DA82351DCb9D213230da7B92A",
+      "chainId": 1,
+      "address": "0x7cb683151a83c2b10a30cbb003cda9996228a2ba",
       "name": "IYKYK",
       "symbol": "IYKYK",
       "decimals": 18,
@@ -1826,7 +1826,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.png"
     },
     {
       "chainId": 10,
@@ -1834,7 +1834,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.png"
     },
     {
       "chainId": 8453,
@@ -1842,15 +1842,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x1E0b2992079B620AA13A7c2E7c88D2e1E18E46E9",
-      "name": "KOMPETE Token",
-      "symbol": "KOMPETE",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KOMPETE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KNC/logo.png"
     },
     {
       "chainId": 8453,
@@ -1862,11 +1854,19 @@
     },
     {
       "chainId": 1,
+      "address": "0x1E0b2992079B620AA13A7c2E7c88D2e1E18E46E9",
+      "name": "KOMPETE Token",
+      "symbol": "KOMPETE",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KOMPETE/logo.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KROM/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KROM/logo.png"
     },
     {
       "chainId": 10,
@@ -1874,7 +1874,7 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KROM/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/KROM/logo.png"
     },
     {
       "chainId": 1,
@@ -1909,12 +1909,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIKE/logo.svg"
     },
     {
+      "chainId": 0,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.png"
+    },
+    {
       "chainId": 1,
       "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.png"
     },
     {
       "chainId": 10,
@@ -1922,15 +1930,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.svg"
-    },
-    {
-      "chainId": 0,
-      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LINK/logo.png"
     },
     {
       "chainId": 1,
@@ -1938,7 +1938,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.png"
     },
     {
       "chainId": 10,
@@ -1946,7 +1946,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.png"
     },
     {
       "chainId": 8453,
@@ -1954,7 +1954,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LIZ/logo.png"
     },
     {
       "chainId": 1,
@@ -1994,7 +1994,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.png"
     },
     {
       "chainId": 10,
@@ -2002,7 +2002,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.png"
     },
     {
       "chainId": 8453,
@@ -2010,15 +2010,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
-      "name": "LUSD Stablecoin",
-      "symbol": "LUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LUSD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LRC/logo.png"
     },
     {
       "chainId": 10,
@@ -2038,11 +2030,19 @@
     },
     {
       "chainId": 1,
+      "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LUSD/logo.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LYRA/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LYRA/logo.png"
     },
     {
       "chainId": 10,
@@ -2050,7 +2050,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LYRA/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/LYRA/logo.png"
     },
     {
       "chainId": 1,
@@ -2074,7 +2074,7 @@
       "name": "Heroes of Mavia",
       "symbol": "MAVIA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MAVIA/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MAVIA/logo.png"
     },
     {
       "chainId": 8453,
@@ -2082,7 +2082,7 @@
       "name": "Heroes of Mavia",
       "symbol": "MAVIA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MAVIA/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MAVIA/logo.png"
     },
     {
       "chainId": 1,
@@ -2090,7 +2090,7 @@
       "name": "MBS",
       "symbol": "MBS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MBS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MBS/logo.png"
     },
     {
       "chainId": 8453,
@@ -2098,7 +2098,15 @@
       "name": "MBS",
       "symbol": "MBS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MBS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MBS/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xed328e9c1179a30ddc1e7595e036aed8760c22af",
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MCADE/logo.svg"
     },
     {
       "chainId": 0,
@@ -2119,14 +2127,6 @@
     {
       "chainId": 0,
       "address": "0x162aA1C7bba68861eA33CF1ffFa8bCADDdFdA145",
-      "name": "Metacade",
-      "symbol": "MCADE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MCADE/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xed328e9c1179a30ddc1e7595e036aed8760c22af",
       "name": "Metacade",
       "symbol": "MCADE",
       "decimals": 18,
@@ -2157,20 +2157,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MET/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-      "name": "Maker",
-      "symbol": "MKR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.png"
     },
     {
       "chainId": 8453,
@@ -2178,7 +2170,15 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MKR/logo.png"
     },
     {
       "chainId": 1,
@@ -2197,14 +2197,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MOCHI/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
-      "name": "Mog Coin",
-      "symbol": "Mog",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/Mog/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
       "name": "Mog Coin",
@@ -2213,16 +2205,24 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/Mog/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x5e70AfFE232e2919792f77EB94e566db0320fa88",
+      "chainId": 1,
+      "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+      "name": "Mog Coin",
+      "symbol": "Mog",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/Mog/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1351986732367ff6B51784c6A75f63502dE13a9a",
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MOM/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x1351986732367ff6B51784c6A75f63502dE13a9a",
+      "chainId": 10,
+      "address": "0x5e70AfFE232e2919792f77EB94e566db0320fa88",
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
@@ -2245,16 +2245,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MONKE/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579",
+      "chainId": 8453,
+      "address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
       "name": "Empower Token",
       "symbol": "MPWR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/MPWR/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
+      "chainId": 1,
+      "address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579",
       "name": "Empower Token",
       "symbol": "MPWR",
       "decimals": 18,
@@ -2301,12 +2301,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFD/logo.svg"
     },
     {
+      "chainId": 1,
+      "address": "0x8c223a82e07fecb49d602150d7c2b3a4c9630310",
+      "name": "NFTEarthOFT",
+      "symbol": "NFTE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.png"
+    },
+    {
       "chainId": 10,
       "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
       "name": "NFTEarthOFT",
       "symbol": "NFTE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.png"
     },
     {
       "chainId": 8453,
@@ -2314,23 +2322,7 @@
       "name": "NFTEarthOFT",
       "symbol": "NFTE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8c223a82e07fecb49d602150d7c2b3a4c9630310",
-      "name": "NFTEarthOFT",
-      "symbol": "NFTE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5fa20d59d2a907e5fed9fb80b4a8d9f0d069a48d",
-      "name": "Noggles",
-      "symbol": "NOGS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NOGS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NFTE/logo.png"
     },
     {
       "chainId": 8453,
@@ -2338,15 +2330,15 @@
       "name": "Noggles",
       "symbol": "NOGS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NOGS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NOGS/logo.png"
     },
     {
       "chainId": 1,
-      "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
-      "name": "Ocean Token",
-      "symbol": "OCEAN",
+      "address": "0x5fa20d59d2a907e5fed9fb80b4a8d9f0d069a48d",
+      "name": "Noggles",
+      "symbol": "NOGS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OCEAN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/NOGS/logo.png"
     },
     {
       "chainId": 10,
@@ -2354,7 +2346,23 @@
       "name": "Ocean Token",
       "symbol": "OCEAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OCEAN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OCEAN/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+      "name": "Ocean Token",
+      "symbol": "OCEAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OCEAN/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+      "name": "Autonolas",
+      "symbol": "OLAS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OLAS/logo.svg"
     },
     {
       "chainId": 10,
@@ -2373,12 +2381,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OLAS/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
-      "name": "Autonolas",
-      "symbol": "OLAS",
+      "chainId": 8453,
+      "address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
+      "name": "OMI Token",
+      "symbol": "OMI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OLAS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OMI/logo.svg"
     },
     {
       "chainId": 0,
@@ -2405,20 +2413,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OMI/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
-      "name": "OMI Token",
-      "symbol": "OMI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OMI/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0x4200000000000000000000000000000000000042",
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OP/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/OP/logo.png"
     },
     {
       "chainId": 1,
@@ -2506,7 +2506,7 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PENDLE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PENDLE/logo.png"
     },
     {
       "chainId": 10,
@@ -2514,7 +2514,7 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PENDLE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PENDLE/logo.png"
     },
     {
       "chainId": 1,
@@ -2541,20 +2541,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PEPE/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
-      "name": "Perpetual",
-      "symbol": "PERP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PERP/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PERP/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PERP/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PERP/logo.png"
     },
     {
       "chainId": 1,
@@ -2573,7 +2573,7 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PHTK/logo.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 8453,
       "address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
       "name": "PIP",
       "symbol": "PIP",
@@ -2581,7 +2581,7 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PIP/logo.svg"
     },
     {
-      "chainId": 8453,
+      "chainId": 1,
       "address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
       "name": "PIP",
       "symbol": "PIP",
@@ -2594,7 +2594,7 @@
       "name": "Plague",
       "symbol": "PLG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PLG/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PLG/logo.png"
     },
     {
       "chainId": 8453,
@@ -2602,7 +2602,7 @@
       "name": "Ponder",
       "symbol": "PNDR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PNDR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PNDR/logo.png"
     },
     {
       "chainId": 1,
@@ -2693,14 +2693,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PREMIA/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
-      "name": "Prime",
-      "symbol": "PRIME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PRIME/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
       "name": "Prime",
@@ -2709,12 +2701,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PRIME/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
-      "name": "Propy",
-      "symbol": "PRO",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PRO/logo.svg"
+      "chainId": 8453,
+      "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PRIME/logo.svg"
     },
     {
       "chainId": 8453,
@@ -2726,11 +2718,11 @@
     },
     {
       "chainId": 1,
-      "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
-      "name": "ParaSwap",
-      "symbol": "PSP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PSP/logo.svg"
+      "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
+      "name": "Propy",
+      "symbol": "PRO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PRO/logo.svg"
     },
     {
       "chainId": 10,
@@ -2742,11 +2734,19 @@
     },
     {
       "chainId": 1,
+      "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+      "name": "ParaSwap",
+      "symbol": "PSP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/PSP/logo.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0xc22B30E4cce6b78aaaADae91E44E73593929a3e9",
       "name": "RAC",
       "symbol": "RAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RAC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RAC/logo.png"
     },
     {
       "chainId": 8453,
@@ -2754,7 +2754,7 @@
       "name": "RAC",
       "symbol": "RAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RAC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RAC/logo.png"
     },
     {
       "chainId": 1,
@@ -2837,20 +2837,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RFWSTETH/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
-      "name": "Rari Governance Token",
-      "symbol": "RGT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RGT/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
       "name": "Rari Governance Token",
       "symbol": "RGT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RGT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RGT/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "name": "Rari Governance Token",
+      "symbol": "RGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RGT/logo.png"
     },
     {
       "chainId": 1,
@@ -2898,7 +2898,7 @@
       "name": "Reserve Rights",
       "symbol": "RSR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RSR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RSR/logo.png"
     },
     {
       "chainId": 8453,
@@ -2906,7 +2906,7 @@
       "name": "Reserve Rights",
       "symbol": "RSR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RSR/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/RSR/logo.png"
     },
     {
       "chainId": 1,
@@ -2914,7 +2914,7 @@
       "name": "SAIL Token",
       "symbol": "SAIL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SAIL/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SAIL/logo.png"
     },
     {
       "chainId": 10,
@@ -2922,7 +2922,7 @@
       "name": "SAIL Token",
       "symbol": "SAIL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SAIL/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SAIL/logo.png"
     },
     {
       "chainId": 1,
@@ -2946,7 +2946,7 @@
       "name": "Sarcophagus",
       "symbol": "SARCO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.png"
     },
     {
       "chainId": 10,
@@ -2954,7 +2954,7 @@
       "name": "Sarcophagus",
       "symbol": "SARCO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.png"
     },
     {
       "chainId": 8453,
@@ -2962,7 +2962,7 @@
       "name": "Sarcophagus",
       "symbol": "SARCO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SARCO/logo.png"
     },
     {
       "chainId": 1,
@@ -2981,16 +2981,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SCM/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x0000000000071821e8033345a7be174647be0706",
+      "chainId": 10,
+      "address": "0x64ba55a341ec586a4c5d58d6297cde5125ab55bc",
       "name": "Scry Protocol",
       "symbol": "SCRY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SCRY/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x64ba55a341ec586a4c5d58d6297cde5125ab55bc",
+      "chainId": 1,
+      "address": "0x0000000000071821e8033345a7be174647be0706",
       "name": "Scry Protocol",
       "symbol": "SCRY",
       "decimals": 18,
@@ -3013,14 +3013,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SDL/logo.svg"
     },
     {
-      "chainId": 0,
-      "address": "0x178898686F23a50CCAC17962df41395484804a6B",
-      "name": "Seamless",
-      "symbol": "SEAM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SEAM/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x6b66ccd1340c479B07B390d326eaDCbb84E726Ba",
       "name": "Seamless",
@@ -3039,6 +3031,14 @@
     {
       "chainId": 8453,
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+      "name": "Seamless",
+      "symbol": "SEAM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SEAM/logo.svg"
+    },
+    {
+      "chainId": 0,
+      "address": "0x178898686F23a50CCAC17962df41395484804a6B",
       "name": "Seamless",
       "symbol": "SEAM",
       "decimals": 18,
@@ -3149,14 +3149,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SNT/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
-      "name": "Synthetix",
-      "symbol": "SNX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SNX/logo.svg"
-    },
-    {
       "chainId": 8453,
       "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
       "name": "Synthetix",
@@ -3181,6 +3173,14 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SNX/logo.svg"
     },
     {
+      "chainId": 10,
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SNX/logo.svg"
+    },
+    {
       "chainId": 1,
       "address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
       "name": "Rai.Finance",
@@ -3197,16 +3197,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SOFI/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xfe3b138879d6d0555be4132dcfe6e7424e257a2e",
+      "chainId": 8453,
+      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
       "name": "SoftDAO",
       "symbol": "SOFT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SOFT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
+      "chainId": 1,
+      "address": "0xfe3b138879d6d0555be4132dcfe6e7424e257a2e",
       "name": "SoftDAO",
       "symbol": "SOFT",
       "decimals": 18,
@@ -3234,7 +3234,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SPANK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SPANK/logo.png"
     },
     {
       "chainId": 10,
@@ -3242,7 +3242,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SPANK/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SPANK/logo.png"
     },
     {
       "chainId": 1,
@@ -3314,7 +3314,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUKU/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUKU/logo.png"
     },
     {
       "chainId": 10,
@@ -3322,7 +3322,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUKU/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUKU/logo.png"
     },
     {
       "chainId": 8453,
@@ -3330,7 +3330,7 @@
       "name": "Sustainable Growth",
       "symbol": "SUS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUS/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/SUS/logo.png"
     },
     {
       "chainId": 1,
@@ -3378,7 +3378,7 @@
       "name": "ShibaDoge",
       "symbol": "ShibDoge",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ShibDoge/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ShibDoge/logo.png"
     },
     {
       "chainId": 8453,
@@ -3386,7 +3386,7 @@
       "name": "ShibaDoge",
       "symbol": "ShibDoge",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ShibDoge/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ShibDoge/logo.png"
     },
     {
       "chainId": 1,
@@ -3442,7 +3442,7 @@
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.png"
     },
     {
       "chainId": 10,
@@ -3450,7 +3450,7 @@
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.png"
     },
     {
       "chainId": 8453,
@@ -3458,15 +3458,7 @@
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2c9084e65d046146d6cfc26bf45f5b80042b90eb",
-      "name": "Current Thing",
-      "symbol": "THING",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THING/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THALES/logo.png"
     },
     {
       "chainId": 8453,
@@ -3477,12 +3469,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THING/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
-      "name": "TokenDao",
-      "symbol": "TKN",
+      "chainId": 1,
+      "address": "0x2c9084e65d046146d6cfc26bf45f5b80042b90eb",
+      "name": "Current Thing",
+      "symbol": "THING",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/THING/logo.svg"
     },
     {
       "chainId": 1,
@@ -3490,7 +3482,7 @@
       "name": "TokenDao",
       "symbol": "TKN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.png"
     },
     {
       "chainId": 10,
@@ -3498,7 +3490,15 @@
       "name": "TokenDao",
       "symbol": "TKN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
+      "name": "TokenDao",
+      "symbol": "TKN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TKN/logo.png"
     },
     {
       "chainId": 1,
@@ -3522,7 +3522,7 @@
       "name": "Trace Token",
       "symbol": "TRAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRAC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRAC/logo.png"
     },
     {
       "chainId": 8453,
@@ -3530,7 +3530,7 @@
       "name": "Trace Token",
       "symbol": "TRAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRAC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRAC/logo.png"
     },
     {
       "chainId": 1,
@@ -3538,7 +3538,7 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRB/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRB/logo.png"
     },
     {
       "chainId": 10,
@@ -3546,7 +3546,15 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRB/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRB/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+      "name": "TRON",
+      "symbol": "TRX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRX/logo.svg"
     },
     {
       "chainId": 10,
@@ -3558,19 +3566,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
-      "name": "TRON",
-      "symbol": "TRX",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TRX/logo.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
       "name": "The Secret Coin",
       "symbol": "TSC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TSC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TSC/logo.png"
     },
     {
       "chainId": 8453,
@@ -3578,7 +3578,7 @@
       "name": "The Secret Coin",
       "symbol": "TSC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TSC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TSC/logo.png"
     },
     {
       "chainId": 0,
@@ -3597,32 +3597,32 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TT/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TUSD/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TUSD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TUSD/logo.png"
     },
     {
-      "chainId": 8453,
-      "address": "0x029a3b0532871735809a51e8653d6017ef04b6fa",
+      "chainId": 10,
+      "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TUSD/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9ebbc7970e26b4eced7323b9331763e8272d011",
       "name": "TYBENG",
       "symbol": "TYBENG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/TYBENG/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xd9ebbc7970e26b4eced7323b9331763e8272d011",
+      "chainId": 8453,
+      "address": "0x029a3b0532871735809a51e8653d6017ef04b6fa",
       "name": "TYBENG",
       "symbol": "TYBENG",
       "decimals": 18,
@@ -3661,14 +3661,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UBI/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x90DE74265a416e1393A450752175AED98fe11517",
-      "name": "Unlock Discount Token",
-      "symbol": "UDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UDT/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0xc709c9116dBf29Da9c25041b13a07A0e68aC5d2D",
       "name": "Unlock Discount Token",
@@ -3702,11 +3694,19 @@
     },
     {
       "chainId": 1,
+      "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+      "name": "Unlock Discount Token",
+      "symbol": "UDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UDT/logo.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UMA/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UMA/logo.png"
     },
     {
       "chainId": 10,
@@ -3714,23 +3714,7 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UMA/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.svg"
-    },
-    {
-      "chainId": 0,
-      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UMA/logo.png"
     },
     {
       "chainId": 1,
@@ -3738,7 +3722,23 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.png"
+    },
+    {
+      "chainId": 0,
+      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UNI/logo.png"
     },
     {
       "chainId": 1,
@@ -3762,7 +3762,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 0,
@@ -3770,7 +3770,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 1,
@@ -3778,7 +3778,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 8453,
@@ -3786,7 +3786,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDC/logo.png"
     },
     {
       "chainId": 1,
@@ -3794,7 +3794,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDD/logo.png"
     },
     {
       "chainId": 10,
@@ -3802,7 +3802,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDD/logo.png"
     },
     {
       "chainId": 1,
@@ -3810,7 +3810,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.png"
     },
     {
       "chainId": 10,
@@ -3818,7 +3818,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.png"
     },
     {
       "chainId": 0,
@@ -3826,7 +3826,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.png"
     },
     {
       "chainId": 0,
@@ -3834,7 +3834,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USDT/logo.png"
     },
     {
       "chainId": 10,
@@ -3845,20 +3845,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/USD+/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
-      "name": "UST (Wormhole)",
-      "symbol": "UST",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UST/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
       "name": "UST (Wormhole)",
       "symbol": "UST",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UST/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UST/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+      "name": "UST (Wormhole)",
+      "symbol": "UST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/UST/logo.png"
     },
     {
       "chainId": 1,
@@ -3882,7 +3882,7 @@
       "name": "Validator",
       "symbol": "VALX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VALX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VALX/logo.png"
     },
     {
       "chainId": 10,
@@ -3890,7 +3890,7 @@
       "name": "Validator",
       "symbol": "VALX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VALX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VALX/logo.png"
     },
     {
       "chainId": 10,
@@ -3899,14 +3899,6 @@
       "symbol": "VELO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VELO/logo.svg"
-    },
-    {
-      "chainId": 8453,
-      "address": "0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937",
-      "name": "VitaDAO Token",
-      "symbol": "VITA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VITA/logo.svg"
     },
     {
       "chainId": 1,
@@ -3925,12 +3917,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VITA/logo.svg"
     },
     {
+      "chainId": 8453,
+      "address": "0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937",
+      "name": "VitaDAO Token",
+      "symbol": "VITA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/VITA/logo.svg"
+    },
+    {
       "chainId": 1,
       "address": "0x0B6F3c17e1626a7cBfA4302CE4E3c45522d23A83",
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WAD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WAD/logo.png"
     },
     {
       "chainId": 10,
@@ -3938,7 +3938,7 @@
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WAD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WAD/logo.png"
     },
     {
       "chainId": 1,
@@ -4002,7 +4002,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.png"
     },
     {
       "chainId": 10,
@@ -4010,7 +4010,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.png"
     },
     {
       "chainId": 8453,
@@ -4018,15 +4018,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WLD/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WETH/logo.png"
     },
     {
       "chainId": 1,
@@ -4037,16 +4029,24 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WLD/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
+      "chainId": 10,
+      "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WLD/logo.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x3d2eba645c44bbd32a34b7c017667711eb5b173c",
       "name": "Wrapped MistCoin",
       "symbol": "WMC",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/WMC/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x3d2eba645c44bbd32a34b7c017667711eb5b173c",
+      "chainId": 1,
+      "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
       "name": "Wrapped MistCoin",
       "symbol": "WMC",
       "decimals": 2,
@@ -4074,7 +4074,7 @@
       "name": "CryptoFranc",
       "symbol": "XCHF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XCHF/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XCHF/logo.png"
     },
     {
       "chainId": 10,
@@ -4082,15 +4082,7 @@
       "name": "CryptoFranc",
       "symbol": "XCHF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XCHF/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
-      "name": "MetalSwap",
-      "symbol": "XMT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XMT/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XCHF/logo.png"
     },
     {
       "chainId": 1,
@@ -4101,12 +4093,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XMT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
-      "name": "yearn.finance",
-      "symbol": "YFI",
+      "chainId": 10,
+      "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+      "name": "MetalSwap",
+      "symbol": "XMT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/YFI/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/XMT/logo.svg"
     },
     {
       "chainId": 1,
@@ -4125,12 +4117,20 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/YFI/logo.svg"
     },
     {
+      "chainId": 8453,
+      "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/YFI/logo.svg"
+    },
+    {
       "chainId": 1,
       "address": "0x0D505C03d30e65f6e9b4Ef88855a47a89e4b7676",
       "name": "ZoomerCoin",
       "symbol": "ZOOMER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.png"
     },
     {
       "chainId": 8453,
@@ -4138,7 +4138,7 @@
       "name": "ZoomerCoin",
       "symbol": "ZOOMER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.png"
     },
     {
       "chainId": 10,
@@ -4146,15 +4146,7 @@
       "name": "ZoomerCoin",
       "symbol": "ZOOMER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZOOMER/logo.png"
     },
     {
       "chainId": 10,
@@ -4162,7 +4154,7 @@
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.png"
     },
     {
       "chainId": 8453,
@@ -4170,19 +4162,27 @@
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.png"
     },
     {
       "chainId": 1,
-      "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZRX/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
       "name": "Z.com USD",
       "symbol": "ZUSD",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZUSD/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
+      "chainId": 1,
+      "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
       "name": "Z.com USD",
       "symbol": "ZUSD",
       "decimals": 6,
@@ -4205,16 +4205,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/ZYN/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+      "chainId": 10,
+      "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/aCRV/logo.svg"
     },
     {
-      "chainId": 10,
-      "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
+      "chainId": 1,
+      "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
@@ -4365,14 +4365,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/mpETH/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0xae78736cd615f374d3085123a210448e74fc6393",
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/rETH/logo.svg"
-    },
-    {
       "chainId": 10,
       "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
       "name": "Rocket Pool ETH",
@@ -4390,8 +4382,8 @@
     },
     {
       "chainId": 1,
-      "address": "0x9559Aaa82d9649C7A7b220E7c461d2E74c9a3593",
-      "name": "StaFi Staked ETH",
+      "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/rETH/logo.svg"
@@ -4399,6 +4391,14 @@
     {
       "chainId": 10,
       "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+      "name": "StaFi Staked ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/rETH/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9559Aaa82d9649C7A7b220E7c461d2E74c9a3593",
       "name": "StaFi Staked ETH",
       "symbol": "rETH",
       "decimals": 18,
@@ -4541,6 +4541,14 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/sfrxETH/logo.svg"
     },
     {
+      "chainId": 1,
+      "address": "0xcb9f85730f57732fc899fb158164b9ed60c77d49",
+      "name": "Staked Lyra",
+      "symbol": "stkLYRA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/stkLYRA/logo.svg"
+    },
+    {
       "chainId": 10,
       "address": "0x0F5d45a7023612e9e244fe84FAc5fCf3740d1492",
       "name": "Staked Lyra",
@@ -4550,23 +4558,15 @@
     },
     {
       "chainId": 1,
-      "address": "0xcb9f85730f57732fc899fb158164b9ed60c77d49",
-      "name": "Staked Lyra",
-      "symbol": "stkLYRA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/stkLYRA/logo.svg"
-    },
-    {
-      "chainId": 8453,
-      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
       "name": "tBTC v2",
       "symbol": "tBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/tBTC/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+      "chainId": 8453,
+      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
       "name": "tBTC v2",
       "symbol": "tBTC",
       "decimals": 18,
@@ -4613,16 +4613,16 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/wOpenX/logo.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x67f4c72a50f8df6487720261e188f2abe83f57d7",
+      "chainId": 8453,
+      "address": "0x3bfc2bb3b3c187ddc79e38d4a17c830e2a380b70",
       "name": "Wrapped Pocket",
       "symbol": "wPOKT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/wPOKT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x3bfc2bb3b3c187ddc79e38d4a17c830e2a380b70",
+      "chainId": 1,
+      "address": "0x67f4c72a50f8df6487720261e188f2abe83f57d7",
       "name": "Wrapped Pocket",
       "symbol": "wPOKT",
       "decimals": 6,
@@ -4645,14 +4645,6 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/wTBT/logo.svg"
     },
     {
-      "chainId": 8453,
-      "address": "0x4c94DE27c94962Dba6Ebb77924Ac54189db75EFA",
-      "name": "Wrapped eETH",
-      "symbol": "weETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/weETH/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
       "name": "Wrapped eETH",
@@ -4669,12 +4661,12 @@
       "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/weETH/logo.svg"
     },
     {
-      "chainId": 0,
-      "address": "0x24B47cd3A74f1799b32B2de11073764Cb1bb318B",
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
+      "chainId": 8453,
+      "address": "0x4c94DE27c94962Dba6Ebb77924Ac54189db75EFA",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/wstETH/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/weETH/logo.svg"
     },
     {
       "chainId": 1,
@@ -4703,6 +4695,14 @@
     {
       "chainId": 0,
       "address": "0xB82381A3fBD3FaFA77B3a7bE693342618240067b",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/space-group/token-list/master/data/wstETH/logo.svg"
+    },
+    {
+      "chainId": 0,
+      "address": "0x24B47cd3A74f1799b32B2de11073764Cb1bb318B",
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
