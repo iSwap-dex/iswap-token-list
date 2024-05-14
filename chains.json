@@ -1,11 +1,16 @@
 {
   "ethereum": 1,
+  "sepolia": 11155111,
   "polygon": 137,
   "arbitrum": 42161,
   "arbitrum_nova": 42170,
   "optimism": 10,
+  "optimism-sepolia": 11155420,
   "base": 8453,
+  "base-sepolia": 84532,
   "bitlayer": 200901,
   "cyber": 7560,
-  "linea": 59144
+  "linea": 59144,
+  "mode": 34443,
+  "pgn": 424
 }
