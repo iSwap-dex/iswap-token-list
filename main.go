@@ -50,7 +50,7 @@ var tokens []Token
 
 var dataDir = "./data"
 var chainsFile = "chains.json"
-var baseUrl = "https://raw.githubusercontent.com/space-group/token-list/master/"
+var baseUrl = "https://raw.githubusercontent.com/space-group/token-list/main"
 
 func main() {
 	fileBytes, err := os.ReadFile(chainsFile)
@@ -92,7 +92,7 @@ func main() {
 					Name:     tokenInfo.Name,
 					Symbol:   tokenInfo.Symbol,
 					Decimals: tokenInfo.Decimals,
-					LogoURI:  baseUrl + "data/" + tokenInfo.Symbol + "/" + logoFile,
+					LogoURI:  baseUrl + "/data/" + tokenInfo.Symbol + "/" + logoFile,
 				}
 				tokens = append(tokens, outputToken)
 			}
