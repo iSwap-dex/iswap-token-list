@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path/filepath"
 	"time"
@@ -82,8 +81,8 @@ func main() {
 			if err := json.Unmarshal(data, &tokenInfo); err != nil {
 				return err
 			}
-
-			logoFile := findLogoFile(filepath.Dir(path))
+			parentDir := filepath.Dir(path)
+			logoFile := findLogoFile(parentDir)
 
 			for chainId, token := range tokenInfo.Tokens {
 				outputToken := Token{
@@ -92,7 +91,7 @@ func main() {
 					Name:     tokenInfo.Name,
 					Symbol:   tokenInfo.Symbol,
 					Decimals: tokenInfo.Decimals,
-					LogoURI:  baseUrl + "/data/" + tokenInfo.Symbol + "/" + logoFile,
+					LogoURI:  baseUrl + "/data/" + filepath.Base(parentDir) + "/" + logoFile,
 				}
 				tokens = append(tokens, outputToken)
 			}
@@ -132,7 +131,7 @@ func main() {
 }
 
 func findLogoFile(dir string) string {
-	files, err := ioutil.ReadDir(dir)
+	files, err := os.ReadDir(dir)
 	if err != nil {
 		return ""
 	}
