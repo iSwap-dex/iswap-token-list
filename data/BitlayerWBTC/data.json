@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "decimals": 18,
+  "tokens": {
+    "bitlayer": {
+      "address": "0xfF204e2681A6fA0e2C3FaDe68a1B28fb90E4Fc5F"
+    },
+    "bitlayer-testnet": {
+      "address": "0x3e57d6946f893314324C975AA9CEBBdF3232967E"
+    }
+  }
+}
