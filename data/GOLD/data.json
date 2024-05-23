@@ -1,0 +1,11 @@
+{
+    "name": "GOLD",
+    "symbol": "GOLD",
+    "description": "GOLD",
+    "decimals": 18,
+    "tokens": {
+      "bitlayer": {
+        "address": "0xc6610679666250ebe8b8ec8542b37f2df8b8510d"
+      }
+    }
+}
