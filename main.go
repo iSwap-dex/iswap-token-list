@@ -49,7 +49,7 @@ var tokens []Token
 
 var dataDir = "./data"
 var chainsFile = "chains.json"
-var baseUrl = "https://raw.githubusercontent.com/space-group/token-list/main"
+var baseUrl = "https://github.com/iSwap-dex/iswap-token-list/main"
 
 func main() {
 	fileBytes, err := os.ReadFile(chainsFile)
