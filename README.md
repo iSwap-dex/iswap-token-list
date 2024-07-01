@@ -54,12 +54,9 @@
 ### 获取 token.list.json 
 <img width="1743" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/de5ce9c6-c969-454d-8ccb-db7cc5dffee4">
 
-
-### 链信息配置 tokenlist
-
-<img width="906" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/3eb75ac0-269a-49a7-81b9-2564a67c5048">
-
-
-
 ### 添加 token.list.json
 <img width="1061" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/a16613a9-1859-4094-be41-37f7d2c9e66d">
+
+### 链信息配置 tokenlist
+<img width="906" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/3eb75ac0-269a-49a7-81b9-2564a67c5048">
+
