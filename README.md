@@ -60,3 +60,8 @@
 ### 链信息配置 tokenlist
 <img width="906" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/3eb75ac0-269a-49a7-81b9-2564a67c5048">
 
+
+### HOT TOKEN 配置
+
+<img width="1369" alt="image" src="https://github.com/iSwap-dex/iswap-token-list/assets/4955106/890d642f-b766-44b1-aed8-f68f0f5a3284">
+
