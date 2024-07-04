@@ -24,4 +24,4 @@ jobs:
           git commit -m "Auto-generated token.list.json"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
