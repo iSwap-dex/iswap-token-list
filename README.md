@@ -1,7 +1,7 @@
 ### 链信息配置
 `chains.json`
 
-例子
+例子 
 ```json
 {
   "ethereum": 1,
